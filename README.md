@@ -1,177 +1,223 @@
-<!-- VISUAL HEADER -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- REVANTH THOTA — GITHUB PROFILE README                      -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:6C63FF&height=220&section=header&text=Revanth%20Thota&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Architecting%20Multi-Agent%20Systems%20%7C%20Full%20Stack%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" />
 </div>
-
-<!-- TYPING ANIMATION -->
-
-<div align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=A9A5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=System+Status:+Orchestrating+AI+Agents+%F0%9F%A7%A0;Vibe+Coding:+Shipping+Production+Systems+%F0%9F%9A%80;Philosophy:+Structural+Enforcement+%3E+Advisory+Prompts;Location:+Hyderabad,+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
-</a>
-</div>
-
-<!-- SOCIALS & BADGES -->
 
 <div align="center">
 
-<a href="https://github.com/RevanthThota55">
-<img src="https://img.shields.io/github/followers/RevanthThota55?style=social&label=Followers&color=1a1b27" />
-</a>
-<a href="https://github.com/RevanthThota55">
-<img src="https://img.shields.io/github/stars/RevanthThota55?style=social&label=Stars&color=1a1b27" />
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/revanththota55/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:revanththota55@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/RevanthThota55">
-<img src="https://img.shields.io/badge/Portfolio-View_Work-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br />
-
-<!-- 2-COLUMN LAYOUT: INTRO & CURRENT FOCUS -->
-
-<table border="0" width="100%">
-<tr>
-<td width="60%" valign="top">
-
-### 👨‍💻 `System Identity: User_Revanth`
-
-```yaml
-Role: Full Stack Developer | AI Orchestration Builder
-Education: Final Year B.Tech CSE
-Superpower: "Vibe Coding" — directing AI agents
-Core_Philosophy: "Structural enforcement over advisory prompts"
-
-Fun_Fact: "No traditional CS background — I build systems by
-           iterating from real failures."
+```
+██████╗ ███████╗██╗   ██╗ █████╗ ███╗   ██╗████████╗██╗  ██╗
+██╔══██╗██╔════╝██║   ██║██╔══██╗████╗  ██║╚══██╔══╝██║  ██║
+██████╔╝█████╗  ██║   ██║███████║██╔██╗ ██║   ██║   ███████║
+██╔══██╗██╔══╝  ╚██╗ ██╔╝██╔══██║██║╚██╗██║   ██║   ██╔══██║
+██║  ██║███████╗ ╚████╔╝ ██║  ██║██║ ╚████║   ██║   ██║  ██║
+╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
-</td>
-<td width="40%" valign="top">
-
-### 🎯 `Active Processes`
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%24+./orchestrate.sh+--mode+production+--agents+multi;%24+I+build+systems+that+build+systems;%24+structural+enforcement+%3E+advisory+prompts;%24+vibe+coding+%E2%80%94+shipping+from+hyderabad+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" /></a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Focus-AWS_Infrastructure-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+![Profile Views](https://komarev.com/ghpvc/?username=RevanthThota55&color=00ff41&style=flat-square&label=visitors)&nbsp;&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/RevanthThota55?style=flat-square&color=00ff41&labelColor=0d1117&label=followers)](https://github.com/RevanthThota55)&nbsp;&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/RevanthThota55?style=flat-square&color=00ff41&labelColor=0d1117&label=stars)](https://github.com/RevanthThota55)
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Building-Rydon_V5_Production-6C63FF?style=flat-square&logo=react&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Research-Multi--Session_Orchestration-FF4500?style=flat-square&logo=openai&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Community-ClearCtx_Ecosystem-green?style=flat-square&logo=nodedotjs&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Study-System_Design_%26_DSA-blue?style=flat-square&logo=leetcode&logoColor=white" />
-
-</td>
-</tr>
-</table>
-
-<!-- FEATURED PROJECTS (CARDS) -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Deployed Artifacts
-
-<div align="center">
-<table>
-<tr>
-<td align="center"><a href="https://github.com/RevanthThota55/clearctx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RevanthThota55&repo=clearctx&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=A9A5FF" /></a></td>
-<td align="center"><a href="https://github.com/RevanthThota55/ExplainableMed-GOHBO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RevanthThota55&repo=ExplainableMed-GOHBO&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=A9A5FF" /></a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/RevanthThota55/Ai-Council"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RevanthThota55&repo=Ai-Council&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=A9A5FF" /></a></td>
-<td align="center"><a href="https://github.com/RevanthThota55/local-AI-model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RevanthThota55&repo=local-AI-model&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=A9A5FF" /></a></td>
-</tr>
-</table>
 </div>
 
-<!-- DETAILED PROJECT TABLE -->
-
-<details>
-<summary><b>📂 System Manifest: All Projects (Expand)</b></summary>
 <br/>
 
-| Status | Project | Tech Stack | Description |
-|--------|---------|------------|-------------|
-| ![Building](https://img.shields.io/badge/🔨_Building-orange?style=flat-square) | **Rydon V5** | `React Native` `NestJS` `Redis` | Production-grade ride-hailing ecosystem with user/driver apps |
-| ![Live](https://img.shields.io/badge/✅_Live-green?style=flat-square) | **ClearCtx** | `Node.js` `TypeScript` | Multi-agent orchestration for AI coding CLIs — zero context bloat |
-| ![Building](https://img.shields.io/badge/🔨_Building-orange?style=flat-square) | **claude-multi-session** | `npm` `MCP Protocol` | Package for managing isolated Claude Code sessions |
-| ![Done](https://img.shields.io/badge/✅_Done-blue?style=flat-square) | **Session Engine** | `Claude Hooks` | Auto state capture & diff-aware briefings |
-| ![Research](https://img.shields.io/badge/🔬_Research-purple?style=flat-square) | **ExplainableMed** | `Python` `ML` | Hybrid Meta-heuristic Optimized Medical Image Classification |
-| ![Product](https://img.shields.io/badge/💰_Product-yellow?style=flat-square) | **Ghost Researcher** | `n8n` `Automation` | n8n-based LinkedIn outreach automation template |
+<!-- ─────────────────────────── SYSTEM INFO ─────────────────────────── -->
+
+```bash
+revanth@hyderabad:~$ cat /etc/system.conf
+```
+
+```yaml
+# ══════════════════════════════════════════════════════════════
+# SYSTEM IDENTITY
+# ══════════════════════════════════════════════════════════════
+
+name:       Revanth Thota
+role:       Full Stack Developer | AI Orchestration Builder
+education:  Final Year B.Tech CSE
+location:   Hyderabad, India
+
+philosophy: "Structural enforcement over advisory prompts"
+superpower: "Vibe Coding — directing AI agents to ship production systems"
+
+origin_story: |
+  No traditional CS background.
+  I build systems by orchestrating AI agents
+  and iterating from real failures.
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/_%2Fin%2Frevanththota55-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/revanththota55)&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/_revanththota55@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:revanththota55@gmail.com)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/_RevanthThota55-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RevanthThota55)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ─────────────────────────── ACTIVE PROCESSES ─────────────────────────── -->
+
+```bash
+revanth@hyderabad:~$ htop --filter="active"
+```
+
+```
+  PID  STATUS      PROCESS                                    CPU    MEM
+ ─────────────────────────────────────────────────────────────────────────
+  001  BUILDING    Rydon V5 — ride-hailing production launch   ██░░   85%
+  002  LIVE        ClearCtx — multi-agent orchestration OSS    ████   92%
+  003  BUILDING    claude-multi-session — MCP npm package      ██░░   70%
+  004  STUDYING    System Design & DSA — placement prep        █░░░   45%
+  005  DEEPENING   AWS Infrastructure — cloud expertise        ██░░   60%
+```
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ─────────────────────────── DEPLOYED ARTIFACTS ─────────────────────────── -->
+
+```bash
+revanth@hyderabad:~$ ls -la ~/projects/deployed/
+```
+
+<div align="center">
+
+<a href="https://github.com/RevanthThota55/clearctx">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RevanthThota55&repo=clearctx&theme=dark&hide_border=true&border_radius=6&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=8b949e" />
+</a>
+<a href="https://github.com/RevanthThota55/ExplainableMed-GOHBO">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RevanthThota55&repo=ExplainableMed-GOHBO&theme=dark&hide_border=true&border_radius=6&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=8b949e" />
+</a>
+<a href="https://github.com/RevanthThota55/Ai-Council">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RevanthThota55&repo=Ai-Council&theme=dark&hide_border=true&border_radius=6&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=8b949e" />
+</a>
+<a href="https://github.com/RevanthThota55/local-AI-model">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RevanthThota55&repo=local-AI-model&theme=dark&hide_border=true&border_radius=6&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=8b949e" />
+</a>
+
+</div>
+
+<br/>
+
+<details>
+<summary><code>revanth@hyderabad:~$ cat ~/projects/manifest.json</code></summary>
+<br/>
+
+| Status | Project | Stack | Description |
+|:------:|---------|-------|-------------|
+| ![](https://img.shields.io/badge/🔨-building-orange?style=flat-square) | **Rydon V5** | `React Native` `NestJS` `PostgreSQL` `Redis` `AWS` | Production ride-hailing ecosystem — user/driver apps, admin/support dashboards |
+| ![](https://img.shields.io/badge/✅-live-00ff41?style=flat-square) | **ClearCtx** | `TypeScript` `Node.js` | Multi-agent orchestration for AI CLIs — zero context bloat via immutable disk artifacts |
+| ![](https://img.shields.io/badge/🔨-building-orange?style=flat-square) | **claude-multi-session** | `TypeScript` `npm` `MCP` | Isolated Claude Code session management with 68+ MCP tools |
+| ![](https://img.shields.io/badge/✅-complete-00ff41?style=flat-square) | **Session Engine** | `Claude Hooks` | Auto state capture & diff-aware briefings — zero manual intervention |
+| ![](https://img.shields.io/badge/🔬-research-blueviolet?style=flat-square) | **ExplainableMed-GOHBO** | `Python` `ML/AI` | Hybrid meta-heuristic optimized medical image classification with XAI |
+| ![](https://img.shields.io/badge/💰-shipped-yellow?style=flat-square) | **Ghost Researcher** | `n8n` `Automation` | LinkedIn outreach automation template — productized digital offering |
 
 </details>
 
 <br/>
 
-<!-- TECH STACK (GRID LAYOUT) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Arsenal
+<br/>
+
+<!-- ─────────────────────────── TECH STACK ─────────────────────────── -->
+
+```bash
+revanth@hyderabad:~$ neofetch --tech-stack
+```
 
 <table width="100%">
 <tr>
 <td align="center" width="50%">
+
+**`> Languages & Runtime`**
+
 <br/>
-<b>⚡ Core & Backend</b>
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp&theme=dark" />
+
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp&perline=4" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,redis" />
+
+**`> Backend & Data`**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,redis,prisma&theme=dark" />
+
 </td>
 <td align="center" width="50%">
+
+**`> Frontend & Mobile`**
+
 <br/>
-<b>🎨 Frontend & Mobile</b>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&perline=4" />
-<br/><br/>
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" />
+
+<br/>
+
+![React Native](https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-0d1117?style=flat-square&logo=expo&logoColor=white)
+
+<br/>
+
+**`> Cloud & DevOps`**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode&theme=dark" />
+
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td align="center" colspan="2">
+
+**`> AI & Orchestration`**
+
 <br/>
-<b>🤖 AI & Orchestration</b>
-<br/><br/>
-<img src="https://img.shields.io/badge/Claude_Code-D4A574?style=for-the-badge&logo=anthropic&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-</td>
-<td align="center" width="50%">
-<br/>
-<b>☁️ Cloud & DevOps</b>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" />
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-0d1117?style=flat-square&logo=anthropic&logoColor=D4A574)&nbsp;
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white)&nbsp;
+![n8n](https://img.shields.io/badge/n8n-0d1117?style=flat-square&logo=n8n&logoColor=EA4B71)&nbsp;
+![Socket.IO](https://img.shields.io/badge/Socket.IO-0d1117?style=flat-square&logo=socket.io&logoColor=white)&nbsp;
+![BullMQ](https://img.shields.io/badge/BullMQ-0d1117?style=flat-square&logo=redis&logoColor=DC382D)&nbsp;
+![Turborepo](https://img.shields.io/badge/Turborepo-0d1117?style=flat-square&logo=turborepo&logoColor=EF4444)
+
 </td>
 </tr>
 </table>
 
 <br/>
 
-<!-- GITHUB STATS GRID -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 Telemetry Data
+<br/>
+
+<!-- ─────────────────────────── TELEMETRY ─────────────────────────── -->
+
+```bash
+revanth@hyderabad:~$ git log --stat --author="revanth"
+```
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RevanthThota55&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=RevanthThota55&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
 </div>
 
 <br/>
@@ -179,8 +225,12 @@ Fun_Fact: "No traditional CS background — I build systems by
 <div align="center">
 <table>
 <tr>
-<td><img width="100%" src="https://github-readme-stats.vercel.app/api?username=RevanthThota55&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF" /></td>
-<td><img width="100%" src="https://streak-stats.demolab.com/?user=RevanthThota55&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" /></td>
+<td>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=RevanthThota55&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=8b949e&ring_color=00ff41" />
+</td>
+<td>
+<img width="100%" src="https://streak-stats.demolab.com/?user=RevanthThota55&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=8b949e&dates=555555&currStreakNum=00ff41&sideNums=00ff41" />
+</td>
 </tr>
 </table>
 </div>
@@ -188,36 +238,57 @@ Fun_Fact: "No traditional CS background — I build systems by
 <br/>
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RevanthThota55&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RevanthThota55&theme=github-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4120" />
 </div>
 
 <br/>
 
-<!-- SNAKE ANIMATION -->
+<!-- ─────────────────────────── SNAKE ─────────────────────────── -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/RevanthThota55/RevanthThota55/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RevanthThota55/RevanthThota55/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RevanthThota55/RevanthThota55/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/RevanthThota55/RevanthThota55/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 <br/>
 
-<!-- FOOTER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ─────────────────────────── CONNECT ─────────────────────────── -->
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+```
+revanth@hyderabad:~$ echo "Let's connect"
+```
+
+<br/>
+
+*Building multi-agent systems or shipping with AI coding tools?*
+**Open an issue, send a PR, or reach out.**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%2Fin%2Frevanththota55-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/revanththota55)&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/mail-revanththota55@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:revanththota55@gmail.com)
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 <br/><br/>
 
-<i>"I build systems that build systems."</i>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/revanth-thota-a15894256/">
-<img src="https://img.shields.io/badge/Collaborate_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+```
+"I build systems that build systems."
+```
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:6C63FF&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00ff41&height=100&section=footer" />
