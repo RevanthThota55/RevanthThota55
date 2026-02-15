@@ -25,7 +25,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/revanththota55">
+<a href="https://www.linkedin.com/in/revanththota55/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:revanththota55@gmail.com">
