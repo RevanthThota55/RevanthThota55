@@ -58,22 +58,64 @@ fun_fact: "No traditional CS background — I build systems by
 <!-- Featured Projects -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/RevanthThota55/clearctx">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RevanthThota55&repo=clearctx&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117" />
-</a>
-<a href="https://github.com/RevanthThota55/ExplainableMed-GOHBO">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RevanthThota55&repo=ExplainableMed-GOHBO&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117" />
-</a>
-<a href="https://github.com/RevanthThota55/Ai-Council">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RevanthThota55&repo=Ai-Council&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117" />
-</a>
-<a href="https://github.com/RevanthThota55/local-AI-model">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RevanthThota55&repo=local-AI-model&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117" />
-</a>
-
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 ClearCtx</h3>
+      <p align="center">
+        <a href="https://github.com/RevanthThota55/clearctx">
+          <img src="https://img.shields.io/badge/VIEW_REPO-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Multi-agent orchestration for AI coding CLIs. Zero context bloat — artifacts over messages. Structural enforcement that works 100% where advisory rules fail 50%.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Open_Source-✅-brightgreen?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚗 Rydon V5</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PRIVATE_REPO-1a1b27?style=for-the-badge&logo=github&logoColor=white"/>
+      </p>
+      <p align="center">Production-grade ride-hailing ecosystem — user app, driver app, admin dashboard, support dashboard & website. Built on a Turborepo monorepo.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔬 ExplainableMed-GOHBO</h3>
+      <p align="center">
+        <a href="https://github.com/RevanthThota55/ExplainableMed-GOHBO">
+          <img src="https://img.shields.io/badge/VIEW_REPO-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Hybrid Meta-heuristic Optimized Medical Image Classification with Explainable AI.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ML/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Ai-Council</h3>
+      <p align="center">
+        <a href="https://github.com/RevanthThota55/Ai-Council">
+          <img src="https://img.shields.io/badge/VIEW_REPO-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">AI Council — multi-agent coordination and decision-making system.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -84,11 +126,12 @@ fun_fact: "No traditional CS background — I build systems by
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
 | **🚗 Rydon V5** | Production-grade ride-hailing ecosystem with user/driver apps, admin/support dashboards | React Native, NestJS, PostgreSQL, Redis, AWS | 🔨 Building |
-| **🧠 ClearCtx** | Multi-agent orchestration for AI coding CLIs — zero context bloat via immutable disk artifacts | TypeScript, Node.js, Artifact-based orchestration | ✅ Open Source |
+| **🧠 ClearCtx** | Multi-agent orchestration for AI coding CLIs — zero context bloat via immutable disk artifacts | JavaScript, Node.js, Artifact-based orchestration | ✅ Open Source |
 | **🔀 claude-multi-session** | npm package for managing isolated Claude Code sessions with MCP tools | TypeScript, npm, MCP Protocol | 🔨 Building |
 | **⚡ Session Continuity Engine** | Auto state capture & diff-aware briefings using Claude Code hooks — zero manual intervention | Claude Code Hooks, State Management | ✅ Complete |
 | **🤝 Team Hub** | Three-layer coordination architecture: chat, artifacts/contracts, reactive intelligence | Multi-agent coordination patterns | 🔨 Building |
 | **🔬 ExplainableMed-GOHBO** | Hybrid Meta-heuristic Optimized Medical Image Classification with Explainable AI | Python, ML/AI | ✅ Published |
+| **🤖 Ai-Council** | Multi-agent coordination and decision-making system | TypeScript | ✅ Published |
 | **👻 Ghost Researcher** | n8n-based LinkedIn outreach automation template — productized digital offering | n8n, Automation Pipelines | ✅ Shipped |
 
 </details>
@@ -196,13 +239,8 @@ fun_fact: "No traditional CS background — I build systems by
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RevanthThota55/RevanthThota55/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RevanthThota55/RevanthThota55/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/RevanthThota55/RevanthThota55/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/RevanthThota55/RevanthThota55/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
-
 
 <br/>
 
