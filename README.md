@@ -99,16 +99,16 @@ revanth@hyderabad:~$ ls -la ~/projects/deployed/
 <div align="center">
 
 <a href="https://github.com/RevanthThota55/clearctx">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RevanthThota55&repo=clearctx&theme=dark&hide_border=true&border_radius=6&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=8b949e" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RevanthThota55&repo=clearctx&hide_border=false&border_radius=8&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=1a3a1a" />
 </a>
 <a href="https://github.com/RevanthThota55/ExplainableMed-GOHBO">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RevanthThota55&repo=ExplainableMed-GOHBO&theme=dark&hide_border=true&border_radius=6&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=8b949e" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RevanthThota55&repo=ExplainableMed-GOHBO&hide_border=false&border_radius=8&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=1a3a1a" />
 </a>
 <a href="https://github.com/RevanthThota55/Ai-Council">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RevanthThota55&repo=Ai-Council&theme=dark&hide_border=true&border_radius=6&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=8b949e" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RevanthThota55&repo=Ai-Council&hide_border=false&border_radius=8&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=1a3a1a" />
 </a>
 <a href="https://github.com/RevanthThota55/local-AI-model">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RevanthThota55&repo=local-AI-model&theme=dark&hide_border=true&border_radius=6&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=8b949e" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RevanthThota55&repo=local-AI-model&hide_border=false&border_radius=8&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=1a3a1a" />
 </a>
 
 </div>
@@ -216,29 +216,21 @@ revanth@hyderabad:~$ git log --stat --author="revanth"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RevanthThota55&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=RevanthThota55&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<table>
-<tr>
-<td>
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=RevanthThota55&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=8b949e&ring_color=00ff41" />
-</td>
-<td>
-<img width="100%" src="https://streak-stats.demolab.com/?user=RevanthThota55&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=8b949e&dates=555555&currStreakNum=00ff41&sideNums=00ff41" />
-</td>
-</tr>
-</table>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RevanthThota55&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=8&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41&border_color=1a3a1a" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=RevanthThota55&hide_border=false&border_radius=8&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=8b949e&dates=555555&currStreakNum=00ff41&sideNums=00ff41&border=1a3a1a" />
 </div>
 
 <br/>
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RevanthThota55&theme=github-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4120" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RevanthThota55&hide_border=false&radius=8&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4120&custom_title=Contribution%20Graph&title_color=00ff41" />
 </div>
 
 <br/>
