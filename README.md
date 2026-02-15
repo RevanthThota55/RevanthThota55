@@ -20,9 +20,9 @@
 <!-- Social Links -->
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/revanththota55)
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:revanththota55@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/revanth-thota-a15894256/)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:revanthwork03@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/RevanthThota55)
   
 </div>
 
@@ -63,6 +63,15 @@ fun_fact: "No traditional CS background — I build systems by
 <a href="https://github.com/RevanthThota55/clearctx">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RevanthThota55&repo=clearctx&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117" />
 </a>
+<a href="https://github.com/RevanthThota55/ExplainableMed-GOHBO">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RevanthThota55&repo=ExplainableMed-GOHBO&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117" />
+</a>
+<a href="https://github.com/RevanthThota55/Ai-Council">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RevanthThota55&repo=Ai-Council&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117" />
+</a>
+<a href="https://github.com/RevanthThota55/local-AI-model">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RevanthThota55&repo=local-AI-model&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117" />
+</a>
 
 </div>
 
@@ -76,9 +85,10 @@ fun_fact: "No traditional CS background — I build systems by
 |---------|-------------|------------|--------|
 | **🚗 Rydon V5** | Production-grade ride-hailing ecosystem with user/driver apps, admin/support dashboards | React Native, NestJS, PostgreSQL, Redis, AWS | 🔨 Building |
 | **🧠 ClearCtx** | Multi-agent orchestration for AI coding CLIs — zero context bloat via immutable disk artifacts | TypeScript, Node.js, Artifact-based orchestration | ✅ Open Source |
-| **🔀 claude-multi-session** | npm package for managing isolated Claude Code sessions with MCP tools | TypeScript, npm, MCP Protocol | ✅ Published |
+| **🔀 claude-multi-session** | npm package for managing isolated Claude Code sessions with MCP tools | TypeScript, npm, MCP Protocol | 🔨 Building |
 | **⚡ Session Continuity Engine** | Auto state capture & diff-aware briefings using Claude Code hooks — zero manual intervention | Claude Code Hooks, State Management | ✅ Complete |
 | **🤝 Team Hub** | Three-layer coordination architecture: chat, artifacts/contracts, reactive intelligence | Multi-agent coordination patterns | 🔨 Building |
+| **🔬 ExplainableMed-GOHBO** | Hybrid Meta-heuristic Optimized Medical Image Classification with Explainable AI | Python, ML/AI | ✅ Published |
 | **👻 Ghost Researcher** | n8n-based LinkedIn outreach automation template — productized digital offering | n8n, Automation Pipelines | ✅ Shipped |
 
 </details>
@@ -151,14 +161,14 @@ fun_fact: "No traditional CS background — I build systems by
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RevanthThota55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RevanthThota55&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RevanthThota55&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=RevanthThota55&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevanthThota55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevanthThota55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <br/>
@@ -192,6 +202,8 @@ fun_fact: "No traditional CS background — I build systems by
     <img alt="github-snake" src="https://raw.githubusercontent.com/RevanthThota55/RevanthThota55/output/github-snake-dark.svg" />
   </picture>
 </div>
+
+> ⚠️ *If the snake isn't visible, go to your repo's **Actions** tab → click **"Generate Snake Animation"** → **Run workflow**.*
 
 <br/>
 
@@ -229,8 +241,8 @@ fun_fact: "No traditional CS background — I build systems by
   
   **If you're working on multi-agent systems or building with AI coding tools, let's talk!**
 
-  [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/revanththota55)
-  [![Email](https://img.shields.io/badge/Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:revanththota55@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/revanth-thota-a15894256/)
+  [![Email](https://img.shields.io/badge/Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:revanthwork03@gmail.com)
   
 </div>
 
