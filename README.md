@@ -203,7 +203,6 @@ fun_fact: "No traditional CS background — I build systems by
   </picture>
 </div>
 
-> ⚠️ *If the snake isn't visible, go to your repo's **Actions** tab → click **"Generate Snake Animation"** → **Run workflow**.*
 
 <br/>
 
